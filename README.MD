@@ -36,7 +36,7 @@ Within the sequence folders is where you create your script files. these are `.t
 
 ## Writing in Script files.
 
-The following types of blocks are availabl and have the following syntax withing the script file:
+The following types of blocks are available and have the following syntax withing the script file:
 
 |Block Type   |Syntax                          |
 |-------------|--------------------------------|
