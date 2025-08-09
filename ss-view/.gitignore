@@ -1,0 +1,42 @@
+# Visual Studio
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+/.vs
+
+# Makefile
+Makefile
+
+# Build Dirs
+*/int
+/bin
+
+# Binaries
+*.exe
+*.lib
+*.dll
+*.pdb
+
+# Premake Exception
+!premake5.exe
+
+# Required Library Exceptions
+!flac.lib
+!freetype.lib
+!ogg.lib
+!openal32.lib
+!sfml-audio-s-d.lib
+!sfml-audio-s.lib
+!sfml-graphics-s-d.lib
+!sfml-graphics-s.lib
+!sfml-network-s-d.lib
+!sfml-network-s.lib
+!sfml-system-s-d.lib
+!sfml-system-s.lib
+!sfml-window-s-d.lib
+!sfml-window-s.lib
+!vorbis.lib
+!vorbisenc.lib
+!vorbisfile.lib
+!openal32.dll
