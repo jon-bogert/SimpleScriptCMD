@@ -8,7 +8,7 @@
 - `ss-format`: Formats all project files to follow a stricter and consistant formatting convention.
 - `ss-export`: Exports the project as a DOCX file (Optimized for [OnlyOffice](https://www.onlyoffice.com/), there are page formatting issues when opening files in Microsoft Word).
 
-It is recommended to use Notepad to edit your text files on Windows 11 as it includes spell check tools.
+It is recommended to use Notepad to edit your text files on Windows 11 as it includes spell check tools. It is also recommended to turn on "Word Wrap" within Notepad's settings.
 
 ## Requirements
 
