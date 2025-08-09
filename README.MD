@@ -29,10 +29,10 @@ Description contents
 Note that names should be all-caps and color values are 8-bit RGBA (0-255 per channel).
 
 ### Sequence Folders
-Within the root folder, you can make sequcene folders. Think of these like chapters in your script. `ss-view` will show one sequence at a time. The order of these sequences will be shown alphabetically, it is recommended you use the following format: `##_Name`. For example: `00_Prologue`.
+Within the root folder, you can make sequecne folders. Think of these as chapters in your script. `ss-view` will show one sequence at a time. The order of these sequences will be shown alphabetically, it is recommended you use the following format: `##_Name`. For example: `00_Prologue`.
 
 ### Script Files
-Within sequence folders is where you create your script files. these are `.txt` files that will be read in alphabetical order and are named after the slug line. Files will be renamed by `ss-format` so you do not need to accurately name them yourself as long as they are properly paced in alphabetical order. The standard format is `###_SLUG_LINE_CONTENTS.txt`. If you need to place a file between `001_` and `002_` we recommend `001a_` and they will be renamed with a new, whole number by `ss-format`.
+Within the sequence folders is where you create your script files. these are `.txt` files that will be read in alphabetical order and are named after the slug line. Files will be renamed by `ss-format` so you do not need to accurately name them yourself, as long as they are properly paced in alphabetical order. The standard format is `###_SLUG_LINE_CONTENTS.txt`. If you need to place a file between `001_` and `002_` we recommend `001a_` and they will be renamed with a new, whole number by `ss-format`.
 
 ## Writing in Script files.
 
